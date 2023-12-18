@@ -1,16 +1,20 @@
 # bilsege
 
-bilsege , bir evrenkent ağıdır
+bilsege bir evrenkent ağıdır ve amacı evrenkent düzeyinde eğitim araç seti oluşturmak ve içerik üreticileri için bir platform olmaktır 
 
 ![bilsege](img/bilsege.svg)
 
 # License
 
-bilsege , bir evrenkent ağıdır
+bilsege bir evrenkent ağıdır ve amacı evrenkent düzeyinde eğitim araç seti oluşturmak ve içerik üreticileri için bir platform olmaktır 
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2023-2024 Masscollabs Services
 
-Copyright (C) 2023 Özgür Kütüphane Topluluğu Yazarları ve İçerik üreticileri
+Copyright (C) 2023-2024 Özgür Kütüphane Topluluğu Yazarları ve İçerik üreticileri
+
+Copyright (C) 2023-2024 bilsege Topluluğu Yazarları ve İçerik üreticileri
+
+Copyright (C) 2023-2024 procyberian Topluluğu Yazarları ve İçerik üreticileri
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
